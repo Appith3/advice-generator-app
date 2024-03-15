@@ -12,6 +12,10 @@ export default {
       'darkGrayishBlue': '#323A49',
       'darkBlue': '#1F2632'
     },
+    screens: {
+      'mobile': '375px',
+      'desktop': '1024px'
+    },
     extend: {
       fontFamily: {
         manrope: 'manrope'
